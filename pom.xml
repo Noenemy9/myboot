@@ -60,7 +60,7 @@
         <swagger.fox.version>2.9.2</swagger.fox.version>
         <minio.version>6.0.11</minio.version>
         <jjwt.version>0.10.6</jjwt.version>
-        <fastjsont.version>1.2.62</fastjsont.version>
+        <fastjsont.version>1.2.83_noneautotype</fastjsont.version>
         <querydsl-jpa.version>4.2.1</querydsl-jpa.version>
         <p6spy.version>3.8.7</p6spy.version>
         <mybatis-starter.version>2.1.2</mybatis-starter.version>
