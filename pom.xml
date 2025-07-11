@@ -58,7 +58,7 @@
         <spring-boot-admin.version>2.2.2</spring-boot-admin.version>
         <kaptcha.version>2.3.2</kaptcha.version>
         <swagger.fox.version>2.9.2</swagger.fox.version>
-        <minio.version>6.0.11</minio.version>
+        <minio.version>8.5.4</minio.version>
         <jjwt.version>0.10.6</jjwt.version>
         <fastjsont.version>1.2.62</fastjsont.version>
         <querydsl-jpa.version>4.2.1</querydsl-jpa.version>
