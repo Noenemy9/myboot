@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.jooq</groupId>
             <artifactId>jooq-codegen-maven</artifactId>
-            <version>3.12.4</version>
+            <version>3.14.5</version>
         </dependency>
         <!--postgres 驱动-->
         <dependency>
